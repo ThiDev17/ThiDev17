@@ -18,7 +18,7 @@
 
 </div><br/>
 
-Estudante de Ciência da Computação
+
 
 ## Contato 
 
